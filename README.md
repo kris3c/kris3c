@@ -1,15 +1,4 @@
-<!--
-  ============================================================
-  GitHub Profile README for: Kris3c
-  HOW TO USE:
-  1. Create a new repository named EXACTLY "Kris3c" (same as your username).
-  2. Make it Public and check "Add a README file".
-  3. Replace that README.md with this file's contents.
-  4. Fill in the [PLACEHOLDERS] below: your name, LinkedIn, portfolio, email.
-  ============================================================
--->
-
-<h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
+<h1 align="center">Hi, I'm Krish Arse 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer · Backend & Distributed Systems</b><br/>
