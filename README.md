@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/kris3c"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://[YOUR-PORTFOLIO]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mailkrisharse@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -17,9 +17,9 @@
 
 - 🎓 B.Tech in Computer Science & Engineering @ **IIIT Bhopal** (2022–2026)
 - ⚙️ I like building things that scale — distributed systems, backend services, and clean APIs
-- 🧠 Currently going deeper into **systems programming, distributed architecture, and DevOps**
+- 🧠 Currently going deeper into **Full Stack, DSA, CP, systems programming, distributed architecture, and DevOps**
 - 💼 3× software intern across backend, full-stack, and Spring Boot / Java roles
-- 📫 Reach me at **[YOUR-EMAIL]**
+- 📫 Reach me at **mailkrisharse@gmail.com**
 
 ---
 
