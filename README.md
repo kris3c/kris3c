@@ -99,7 +99,7 @@
 
 - **Software Developer Intern** — NextStep Veteran Pvt. Ltd. *(March 2026 – May 2026)*
 - **Full Stack Developer Intern** — InfoTech Brains *(Jun 2024 – Jan 2025)*
-- **Backend Developer Intern** — Stheera *(Jan 2024 – Mar 2024)*
+- **Backend Developer Intern** — Stheera *(Feb 2025 – April 2024)*
 
 ---
 
