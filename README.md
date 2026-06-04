@@ -78,17 +78,17 @@
 
 ### 🚀 Featured Projects
 
-**🗄️ [HydraFS — Distributed Network File System](https://github.com/Kris3c/[REPO])**
+**🗄️ [HydraFS — Distributed Network File System](https://github.com/Kris3c/HydraFS)**
 > Fault-tolerant distributed file system in **C** with a Naming Server and multiple Storage Servers over TCP sockets. Supports **100 concurrent clients** using POSIX threads with mutex/semaphore synchronization. Features LRU caching, trie-based path indexing, and automatic file replication.
 >
 > `C` · `POSIX Threads` · `TCP Sockets` · `Semaphores` · `Mutexes` · `Make`
 
-**🛡️ [VelocityGuard — Distributed Rate Limiter](https://github.com/Kris3c/[REPO])**
+**🛡️ [VelocityGuard — Distributed Rate Limiter](https://github.com/kris3c/VelocityGuard)**
 > Distributed rate-limiting service in **Java / Spring Boot** backed by Redis. Implements Token Bucket, Leaky Bucket, Fixed Window, and Sliding Window as **atomic Lua scripts** for thread-safe, low-latency enforcement across nodes. Includes adaptive limiting, anomaly detection, and a live React monitoring dashboard.
 >
 > `Java` · `Spring Boot` · `Redis` · `Lua` · `React` · `TypeScript` · `Docker`
 
-**🛒 [ShopNest — Multi-Vendor E-Commerce Platform](https://github.com/Kris3c/[REPO])**
+**🛒 [ShopNest — Multi-Vendor E-Commerce Platform](https://github.com/Kris3c/ShopNest)**
 > Full-featured **MERN** multi-vendor marketplace built from the ground up — sellers manage storefronts, products, and orders; customers browse, purchase, and track via secure role-based auth. Taken from development to live production with Stripe payments, image hosting, and email verification.
 >
 > `MongoDB` · `Express` · `React` · `Node.js` · `Redux Toolkit` · `Stripe`
@@ -97,7 +97,7 @@
 
 ### 💼 Experience
 
-- **Software Developer Intern** — NextStep Veteran Pvt. Ltd. *(Jul 2025 – Oct 2025)*
+- **Software Developer Intern** — NextStep Veteran Pvt. Ltd. *(March 2026 – May 2026)*
 - **Full Stack Developer Intern** — InfoTech Brains *(Jun 2024 – Jan 2025)*
 - **Backend Developer Intern** — Stheera *(Jan 2024 – Mar 2024)*
 
