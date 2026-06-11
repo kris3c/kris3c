@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Krish Arse 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Backend & Distributed Systems</b><br/>
-  Final-year CSE student @ IIIT Bhopal · building scalable, production-grade software
+  <b>Full-Stack Developer · Backend & Cyber Security</b><br/>
+  Final-year CSE student @ IIIT Bhopal · building scalable, production-grade software 
 </p>
 
 <p align="center">
@@ -92,14 +92,6 @@
 > Full-featured **MERN** multi-vendor marketplace built from the ground up — sellers manage storefronts, products, and orders; customers browse, purchase, and track via secure role-based auth. Taken from development to live production with Stripe payments, image hosting, and email verification.
 >
 > `MongoDB` · `Express` · `React` · `Node.js` · `Redux Toolkit` · `Stripe`
-
----
-
-### 💼 Experience
-
-- **Software Developer Intern** — NextStep Veteran Pvt. Ltd. *(March 2026 – May 2026)*
-- **Full Stack Developer Intern** — InfoTech Brains *(Jun 2024 – Jan 2025)*
-- **Backend Developer Intern** — Stheera *(Feb 2025 – April 2024)*
 
 ---
 
